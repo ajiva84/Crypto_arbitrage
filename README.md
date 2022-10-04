@@ -1,6 +1,6 @@
 #Crypto Arbitrage
 
-This repo compares the arbitrage between two well known crypto exchanges (Coinbase and Bitmap)
+This repo compares the arbitrage between two well known crypto exchanges (Coinbase and Bitstamp)
 
 I have known about bitcoin since 2011. I didn't get the idea of digital currency in general. I got my attention in 2013 after learning the miners were minting big profits. Till today I thought there were only two ways to make money in crypto trade and mining. I recently came across the crypto arbitrate journal from the London school of economics that pushed me to evaluate the data between two exchanges to learn about the arbitrage trends back in the day. 
 
